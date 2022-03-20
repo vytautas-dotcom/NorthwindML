@@ -1,5 +1,5 @@
 using System.Collections.Generic;
-using NorthwindML;
+using NorthwindDb;
 
 namespace NorthwindML.Models
 {

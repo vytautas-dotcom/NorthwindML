@@ -84,3 +84,14 @@ C:\Users\Dell\Docs\SHARE\NorthwindML\NorthwindML\obj\Debug\net5.0\NorthwindML.dl
 C:\Users\Dell\Docs\SHARE\NorthwindML\NorthwindML\obj\Debug\net5.0\ref\NorthwindML.dll
 C:\Users\Dell\Docs\SHARE\NorthwindML\NorthwindML\obj\Debug\net5.0\NorthwindML.pdb
 C:\Users\Dell\Docs\SHARE\NorthwindML\NorthwindML\obj\Debug\net5.0\NorthwindML.genruntimeconfig.cache
+C:\Users\Dell\Docs\SHARE\NorthwindML\NorthwindML\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Dell\Docs\SHARE\NorthwindML\NorthwindML\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Dell\Docs\SHARE\NorthwindML\NorthwindML\bin\Debug\net5.0\NorthwindContextLib.dll
+C:\Users\Dell\Docs\SHARE\NorthwindML\NorthwindML\bin\Debug\net5.0\NorthwindEntitiesLib.dll
+C:\Users\Dell\Docs\SHARE\NorthwindML\NorthwindML\bin\Debug\net5.0\NorthwindContextLib.pdb
+C:\Users\Dell\Docs\SHARE\NorthwindML\NorthwindML\bin\Debug\net5.0\NorthwindEntitiesLib.pdb
+C:\Users\Dell\Docs\SHARE\NorthwindML\NorthwindML\bin\Debug\net5.0\NorthwindEmployees.Views.dll
+C:\Users\Dell\Docs\SHARE\NorthwindML\NorthwindML\bin\Debug\net5.0\NorthwindEmployees.Views.pdb
+C:\Users\Dell\Docs\SHARE\NorthwindML\NorthwindML\bin\Debug\net5.0\NorthwindEmployees.dll
+C:\Users\Dell\Docs\SHARE\NorthwindML\NorthwindML\bin\Debug\net5.0\NorthwindEmployees.pdb
+C:\Users\Dell\Docs\SHARE\NorthwindML\NorthwindML\obj\Debug\net5.0\NorthwindML.MvcApplicationPartsAssemblyInfo.cs

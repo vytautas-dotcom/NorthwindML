@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "NSeatHDIAiROCJjijDgEpoBWChgNlReNovsFN5H2+zWLdVvrx/qCBKfbDAf1eUj28FgGmAM45Fouafpk+xP0nQ==",
+  "dgSpecHash": "m1G2nhvycTRDTYeD+TRU0RxQJSXU+2G+fvKbRRJ0DP48tyYMDPC3qgMAstBdye7JVwAAyEmEgz1ViDVSknEHbw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Dell\\Docs\\SHARE\\NorthwindML\\NorthwindML\\NorthwindML.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Dell\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Dell\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\5.0.0\\microsoft.aspnetcore.jsonpatch.5.0.0.nupkg.sha512",
     "C:\\Users\\Dell\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\5.0.0\\microsoft.aspnetcore.mvc.newtonsoftjson.5.0.0.nupkg.sha512",
     "C:\\Users\\Dell\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
@@ -12,6 +13,7 @@
     "C:\\Users\\Dell\\.nuget\\packages\\microsoft.entityframeworkcore\\5.0.0\\microsoft.entityframeworkcore.5.0.0.nupkg.sha512",
     "C:\\Users\\Dell\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\5.0.0\\microsoft.entityframeworkcore.abstractions.5.0.0.nupkg.sha512",
     "C:\\Users\\Dell\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\5.0.0\\microsoft.entityframeworkcore.analyzers.5.0.0.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\microsoft.entityframeworkcore.design\\5.0.0\\microsoft.entityframeworkcore.design.5.0.0.nupkg.sha512",
     "C:\\Users\\Dell\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\5.0.0\\microsoft.entityframeworkcore.relational.5.0.0.nupkg.sha512",
     "C:\\Users\\Dell\\.nuget\\packages\\microsoft.entityframeworkcore.sqlite\\5.0.0\\microsoft.entityframeworkcore.sqlite.5.0.0.nupkg.sha512",
     "C:\\Users\\Dell\\.nuget\\packages\\microsoft.entityframeworkcore.sqlite.core\\5.0.0\\microsoft.entityframeworkcore.sqlite.core.5.0.0.nupkg.sha512",
